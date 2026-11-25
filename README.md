@@ -1,4 +1,4 @@
-# Laptop Price Prediction using Linear Regression
+# Laptop Price Prediction
 
 ## Project objective
 This beginner-level Machine Learning project predicts an estimated laptop price from its specifications using **Multiple Linear Regression**.
